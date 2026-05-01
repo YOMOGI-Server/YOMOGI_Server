@@ -1,3 +1,5 @@
+# YOMOGI Server Discord規約
+
 ### 1. 用語の定義
 **1.1** 「YOMOGI Server」とは、私たちが提供するマインクラフトサーバー、及びDiscordのサーバーを意味します。<br>
 **1.2** 「Discordサーバー」とは、私たちが提供するDiscordのサーバーを意味します。<br>
